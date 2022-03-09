@@ -34,6 +34,9 @@ jobs:
             mongoid: 7.0
             experimental: false
           - ruby: 2.7
+            mongoid: 7.0.6
+            experimental: false
+          - ruby: 2.7
             mongoid: 7.1
             experimental: false
           - ruby: 2.7
